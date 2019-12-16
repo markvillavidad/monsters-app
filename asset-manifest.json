@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/markvillavidad/monsters-app.git/static/css/main.5ea22f55.chunk.css",
-    "main.js": "/markvillavidad/monsters-app.git/static/js/main.d39f00bc.chunk.js",
-    "main.js.map": "/markvillavidad/monsters-app.git/static/js/main.d39f00bc.chunk.js.map",
-    "runtime-main.js": "/markvillavidad/monsters-app.git/static/js/runtime-main.7e819eb2.js",
-    "runtime-main.js.map": "/markvillavidad/monsters-app.git/static/js/runtime-main.7e819eb2.js.map",
-    "static/js/2.9911b179.chunk.js": "/markvillavidad/monsters-app.git/static/js/2.9911b179.chunk.js",
-    "static/js/2.9911b179.chunk.js.map": "/markvillavidad/monsters-app.git/static/js/2.9911b179.chunk.js.map",
-    "index.html": "/markvillavidad/monsters-app.git/index.html",
-    "precache-manifest.22067e8516f8a17f187f0fed18136a95.js": "/markvillavidad/monsters-app.git/precache-manifest.22067e8516f8a17f187f0fed18136a95.js",
-    "service-worker.js": "/markvillavidad/monsters-app.git/service-worker.js",
-    "static/css/main.5ea22f55.chunk.css.map": "/markvillavidad/monsters-app.git/static/css/main.5ea22f55.chunk.css.map",
-    "static/js/2.9911b179.chunk.js.LICENSE": "/markvillavidad/monsters-app.git/static/js/2.9911b179.chunk.js.LICENSE"
+    "main.css": "/monsters-app/static/css/main.5ea22f55.chunk.css",
+    "main.js": "/monsters-app/static/js/main.40385d36.chunk.js",
+    "main.js.map": "/monsters-app/static/js/main.40385d36.chunk.js.map",
+    "runtime-main.js": "/monsters-app/static/js/runtime-main.a32f7393.js",
+    "runtime-main.js.map": "/monsters-app/static/js/runtime-main.a32f7393.js.map",
+    "static/js/2.9911b179.chunk.js": "/monsters-app/static/js/2.9911b179.chunk.js",
+    "static/js/2.9911b179.chunk.js.map": "/monsters-app/static/js/2.9911b179.chunk.js.map",
+    "index.html": "/monsters-app/index.html",
+    "precache-manifest.2d8005ca099f3bbd2bcf7a5ceda8d3e1.js": "/monsters-app/precache-manifest.2d8005ca099f3bbd2bcf7a5ceda8d3e1.js",
+    "service-worker.js": "/monsters-app/service-worker.js",
+    "static/css/main.5ea22f55.chunk.css.map": "/monsters-app/static/css/main.5ea22f55.chunk.css.map",
+    "static/js/2.9911b179.chunk.js.LICENSE": "/monsters-app/static/js/2.9911b179.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e819eb2.js",
+    "static/js/runtime-main.a32f7393.js",
     "static/js/2.9911b179.chunk.js",
     "static/css/main.5ea22f55.chunk.css",
-    "static/js/main.d39f00bc.chunk.js"
+    "static/js/main.40385d36.chunk.js"
   ]
 }
