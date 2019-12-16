@@ -30,6 +30,7 @@ class App extends Component {
               <h1 key={monster.id}>{monster.name}</h1>)
           }
         </CardList>
+        <div>MARK</div>
         </div>
       );
   }
